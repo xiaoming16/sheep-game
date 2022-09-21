@@ -2,7 +2,7 @@
   "name": "we-game",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite --host 192.168.31.118",
+    "dev": "vite",
     "build": "vite build",
     "preview": "vite preview --port 4173"
   },
