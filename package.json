@@ -1,0 +1,18 @@
+{
+  "name": "we-game",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host 192.168.31.118",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "vue": "^3.2.38",
+    "sass": "^1.54.0",
+    "sass-loader": "^8.0.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9"
+  }
+}
